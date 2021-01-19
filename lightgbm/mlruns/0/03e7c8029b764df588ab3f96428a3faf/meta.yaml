@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gianpio.domiziani/Desktop/development/projects/mlflow_experiments/mlruns/0/03e7c8029b764df588ab3f96428a3faf/artifacts
+end_time: 1611057637630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 03e7c8029b764df588ab3f96428a3faf
+run_uuid: 03e7c8029b764df588ab3f96428a3faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1611057636766
+status: 3
+tags: []
+user_id: gianpio.domiziani
